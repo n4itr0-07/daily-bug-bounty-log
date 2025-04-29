@@ -21,6 +21,11 @@
 - Spent the day working on assignments, practical files, and other college stuff.
 
 ---
+> **Time below in stats is not correct i spent more time on assignments so i calculated wrong!**
+
+![image](https://github.com/user-attachments/assets/e97a2082-ddfb-45cc-9d9b-0ae19e0c70af)
+
+---
 
 ### ***📚 Resources***
 - 🔒 [Medium Writeup: 403 WAF Bypass](https://freedium.cfd/https://medium.com/bugbountywriteup/how-hackers-try-to-bypass-403-forbidden-pages-239c3f51a674)
